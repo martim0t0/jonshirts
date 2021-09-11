@@ -2,7 +2,7 @@
 
   <div class="q-pa-md row items-start q-gutter-md">
     <q-card class="my-card">
-      <img src="../assets/tshirt1.jpeg">
+      <img src="../assets/tshirt1.jpeg" >
 
       <q-card-section>
         <div class="text-h6 text-black-ops">Orange Cat Shirt</div>

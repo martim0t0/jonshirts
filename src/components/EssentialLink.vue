@@ -2,7 +2,6 @@
   <q-item
     clickable
     tag="a"
-
     :to="link"
   >
     <q-item-section

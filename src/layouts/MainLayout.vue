@@ -73,7 +73,7 @@ const linksList = [
     title: 'Home',
     caption: 'go to our home page',
     icon: 'home',
-    link: ''
+    link: '/pagehome'
   },
   {
     title: 'Account',
